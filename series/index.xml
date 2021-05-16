@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Introduction</title>
+    <title>Series on Giới thiệu</title>
     <link>http://thaiquocanh.github.io/series/</link>
-    <description>Recent content in Series on Introduction</description>
+    <description>Recent content in Series on Giới thiệu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://thaiquocanh.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>vi</language>
+    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="http://thaiquocanh.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>quickstart</title>
+      <link>http://thaiquocanh.github.io/series/quickstart/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>http://thaiquocanh.github.io/series/quickstart/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

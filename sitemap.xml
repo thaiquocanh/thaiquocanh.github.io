@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://thaiquocanh.github.io/projects/photography/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/projects/design/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/projects/writing/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/projects/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/series/</loc>
-  </url><url>
-    <loc>http://thaiquocanh.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://thaiquocanh.github.io/vi/sitemap.xml</loc>
+    
+      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://thaiquocanh.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
