@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://example.com/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://example.com/de/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://example.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://thaiquocanh.github.io/projects/photography/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/projects/design/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/projects/writing/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/projects/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/series/</loc>
+  </url><url>
+    <loc>http://thaiquocanh.github.io/tags/</loc>
+  </url>
+</urlset>
